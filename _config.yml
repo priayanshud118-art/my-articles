@@ -1,0 +1,5 @@
+title: My Articles
+description: Market and industry research summaries
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
